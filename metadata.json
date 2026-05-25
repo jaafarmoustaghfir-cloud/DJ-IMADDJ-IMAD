@@ -1,0 +1,8 @@
+{
+  "name": "DJ IMAD",
+  "description": "الموقع الرسمي لديجي عماد آيت الحسن - أفضل خدمات التنشيط الموسيقي وهندسة الإضاءة والأفراح بالمغرب",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
